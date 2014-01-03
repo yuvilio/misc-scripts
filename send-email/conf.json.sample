@@ -1,0 +1,7 @@
+{
+	"from": "Bob Test <bob@test.com>",
+	"to": "jane@test.com",
+	"subject": "Testing",
+	"html_body_file": "the_email.html"
+
+}
